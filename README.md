@@ -1,6 +1,8 @@
 ##  Hi, I'm Mohanan 👋🏾 👩🏾‍💻
 ### I am a full stack developer
 Software developer, passionate about making safe and secure web applications.
+I make applications secure by leveraging the knowledge from hacking methodologies practised for bug bounty programs.
+
 Some technologies I enjoy working with include ReactJS, AngularJS and NodeJS.
 
 ## What I am focusing on
