@@ -1,4 +1,11 @@
-### Hi there 👋
+##  Hi, I'm Mohanan 👋🏾 👩🏾‍💻
+### I am a Full stack developer and Automation engineer
+
+## What I am focusing on
+
+
+## Find me around the web 🌎:
+
 
 <!--
 **MohananT/MohananT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
