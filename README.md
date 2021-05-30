@@ -1,5 +1,5 @@
 ##  Hi, I'm Mohanan 👋🏾 👩🏾‍💻
-### I am a Software developer
+### I am a full stack developer
 Software developer, passionate about making safe and secure web applications.
 Some technologies I enjoy working with include ReactJS, AngularJS and NodeJS.
 
