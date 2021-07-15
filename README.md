@@ -8,8 +8,8 @@ Some technologies I enjoy working with include ReactJS, AngularJS and NodeJS.
 
 ### Languages and Tools:
 <p align="left"> 
-  <a href="https://en.wikipedia.org/wiki/C_Sharp_(programming_language)" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-line.svg" alt="C#" width="80" height="40"/> </a>
- <a href="https://reactjs.org/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" alt="Angular" width="80" height="40"/> </a>
+  <a href="https://en.wikipedia.org/wiki/C_Sharp_(programming_language)" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-line.svg" alt="C#" width="40" height="40"/> </a>
+ <a href="https://reactjs.org/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" alt="Angular" width="40" height="40"/> </a>
  <a href="https://angular.io/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" alt="ReactJS" width="40" height="40"/> </a>
  <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
  <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
